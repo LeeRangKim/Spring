@@ -18,3 +18,7 @@ JIRA : 애자일 프로세스
 
 Jenkins : Git 저장소에 업로드된 소스코드는 연동을 통해 빌드 및 배포 단계 까지 자동으로 진행될 수 있음
 
+
+
+- Issue Tracking
+- SCRUM & KANBAN
